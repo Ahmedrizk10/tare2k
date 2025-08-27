@@ -1,17 +1,18 @@
-import React from 'react'
-import './index.css'
-import NavBar from './components/NavBar'
+import React from 'react';
+import './index.css';
+import CouresDetails from './components/CouresDetailsCard';
+import Frontend from './data/frontend.json';
+import Router from "./components/route/Router"
+
+
 function App() {
 
+
   return (
-    <>
-    <div className="">
-      <div className="">
-      <NavBar />
-      </div>
-      </div>
-    </>
-  )
+    <div className="min-h-screen dark:bg-slate-950 dark:text-white">
+      <Router/>
+    </div>
+  );
 }
 
-export default App
+export default App;

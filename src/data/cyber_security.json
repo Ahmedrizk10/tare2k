@@ -1,0 +1,49 @@
+{
+  "field": "Cybersecurity",
+  "description": "الأمن السيبراني هو علم حماية الأنظمة والشبكات والبرامج من الهجمات الرقمية. بتتعلم فيه أساسيات الشبكات، التهديدات، التشفير، أدوات اختبار الاختراق، وسياسات الأمان. ده مجال مطلوب جدًا في الشركات والهيئات الحكومية لحماية البيانات والمعلومات.",
+  "image": "https://img.icons8.com/color/96/000000/cyber-security.png",
+  "roadmap": [
+    {
+      "title": "Introduction to Cybersecurity",
+      "description": "مقدمة عامة عن الأمن السيبراني، أنواعه، وأهميته في حماية المعلومات.",
+      "image": "https://img.icons8.com/color/96/000000/security-checked.png",
+      "link": "https://www.youtube.com/watch?v=2_lswM1S264"
+    },
+    {
+      "title": "Networking Fundamentals",
+      "description": "تعلم أساسيات الشبكات (IP, DNS, Routing) كأساس لفهم الأمن السيبراني.",
+      "image": "https://img.icons8.com/color/96/000000/networking-manager.png",
+      "link": "https://www.youtube.com/watch?v=qiQR5rTSshw"
+    },
+    {
+      "title": "Linux Basics for Security",
+      "description": "دورة لتعلم أساسيات Linux واستخدامه في الأمن السيبراني.",
+      "image": "https://img.icons8.com/color/96/000000/linux--v1.png",
+      "link": "https://www.youtube.com/watch?v=iwolPf6kN-k"
+    },
+    {
+      "title": "Cryptography Essentials",
+      "description": "مقدمة في التشفير وخوارزمياته الأساسية لحماية البيانات.",
+      "image": "https://img.icons8.com/color/96/000000/lock--v1.png",
+      "link": "https://www.youtube.com/watch?v=jhXCTbFnK8o"
+    },
+    {
+      "title": "Ethical Hacking Basics",
+      "description": "تعلم أساسيات اختبار الاختراق والأدوات المستخدمة فيه مثل Kali Linux.",
+      "image": "https://img.icons8.com/color/96/000000/hacker.png",
+      "link": "https://www.youtube.com/watch?v=lZAoFs75_cs"
+    },
+    {
+      "title": "Penetration Testing",
+      "description": "التعمق في طرق اختبار الاختراق (Web, Network, Systems).",
+      "image": "https://img.icons8.com/color/96/000000/test-passed.png",
+      "link": "https://www.youtube.com/watch?v=3Kq1MIfTWCE"
+    },
+    {
+      "title": "Incident Response & Security Policies",
+      "description": "كيفية الاستجابة للهجمات ووضع سياسات أمان قوية في المؤسسات.",
+      "image": "https://img.icons8.com/color/96/000000/policy-document.png",
+      "link": "https://www.youtube.com/watch?v=U_P23SqJaDc"
+    }
+  ]
+}

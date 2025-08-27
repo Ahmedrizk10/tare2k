@@ -1,0 +1,49 @@
+{
+  "field": "Mobile Development",
+  "description": "تطوير تطبيقات الموبايل واحد من أكتر المجالات المطلوبة دلوقتي. بتتعلم إزاي تعمل تطبيقات تشتغل على Android و iOS باستخدام تقنيات مختلفة زي Java, Kotlin, Swift أو حتى تقنيات Cross-Platform زي Flutter و React Native.",
+  "image": "https://img.icons8.com/color/96/000000/smartphone-tablet.png",
+  "roadmap": [
+    {
+      "title": "Introduction to Mobile Development",
+      "description": "مقدمة عن تطوير تطبيقات الموبايل والفرق بين Android, iOS, و Cross-Platform.",
+      "image": "https://img.icons8.com/color/96/000000/smartphone-idea.png",
+      "link": "https://www.youtube.com/watch?v=sqJ6xZ9mUwE"
+    },
+    {
+      "title": "Java for Android Development",
+      "description": "تعلم لغة Java كأساس لتطوير تطبيقات أندرويد.",
+      "image": "https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png",
+      "link": "https://www.youtube.com/watch?v=fis26HvvDII"
+    },
+    {
+      "title": "Kotlin for Android",
+      "description": "دخول عالم Kotlin لتطوير تطبيقات أندرويد بشكل أسهل وأسرع.",
+      "image": "https://img.icons8.com/color/96/000000/kotlin.png",
+      "link": "https://www.youtube.com/watch?v=F9UC9DY-vIU"
+    },
+    {
+      "title": "Swift for iOS Development",
+      "description": "تعلم لغة Swift لبناء تطبيقات iPhone و iPad.",
+      "image": "https://img.icons8.com/color/96/000000/swift.png",
+      "link": "https://www.youtube.com/watch?v=comQ1-x2a1Q"
+    },
+    {
+      "title": "Flutter Development",
+      "description": "بناء تطبيقات Cross-Platform باستخدام Flutter و Dart.",
+      "image": "https://img.icons8.com/color/96/000000/flutter.png",
+      "link": "https://www.youtube.com/watch?v=VPvVD8t02U8"
+    },
+    {
+      "title": "React Native",
+      "description": "بناء تطبيقات موبايل باستخدام React Native و JavaScript.",
+      "image": "https://img.icons8.com/color/96/000000/react-native.png",
+      "link": "https://www.youtube.com/watch?v=0-S5a0eXPoc"
+    },
+    {
+      "title": "Publishing Apps",
+      "description": "إزاي ترفع تطبيقك على Google Play Store و Apple App Store.",
+      "image": "https://img.icons8.com/color/96/000000/google-play.png",
+      "link": "https://www.youtube.com/watch?v=X7nl-ZVH5pE"
+    }
+  ]
+}

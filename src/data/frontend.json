@@ -1,0 +1,78 @@
+{
+  "id": "frontend",
+  "field": "Frontend Development",
+  "description": "تطوير الواجهة الأمامية يركز على بناء وتصميم واجهات المواقع وتجربة المستخدم باستخدام HTML, CSS, JavaScript ومكتبات مثل React. الهدف إنشاء مواقع سريعة وجذابة وسهلة الاستخدام.",
+  "image": "https://img.icons8.com/?size=200&id=20909&format=png",
+  "roadmap": [
+    {
+      "id": "1",
+      "title": "HTML Basics",
+      "description": "مقدمة في HTML لتعلم بناء هيكل صفحات الويب باستخدام الوسوم الأساسية.",
+      "image": "https://img.icons8.com/?size=200&id=20909&format=png",
+      "link": "https://www.youtube.com/watch?v=UB1O30fR-EE"
+    },
+    {
+      "id": "2",
+      "title": "CSS Basics",
+      "description": "تعلم تصميم صفحات الويب وتنسيق العناصر باستخدام CSS.",
+      "image": "https://img.icons8.com/?size=200&id=21278&format=png",
+      "link": "https://www.youtube.com/watch?v=yfoY53QXEnI"
+    },
+    {
+      "id": "3",
+      "title": "JavaScript Basics",
+      "description": "مدخل إلى لغة JavaScript لفهم أساسيات البرمجة في الويب.",
+      "image": "https://img.icons8.com/?size=200&id=108784&format=png",
+      "link": "https://www.youtube.com/watch?v=W6NZfCO5SIk"
+    },
+    {
+      "id": "4",
+      "title": "Git & GitHub",
+      "description": "إدارة الإصدارات باستخدام Git والعمل الجماعي عبر GitHub.",
+      "image": "https://img.icons8.com/?size=200&id=20906&format=png",
+      "link": "https://www.youtube.com/watch?v=RGOj5yH7evk"
+    },
+    {
+      "id": "5",
+      "title": "Advanced CSS & Responsive Design",
+      "description": "تقنيات متقدمة في CSS مثل Flexbox, Grid, و Media Queries لتصميم مواقع متجاوبة.",
+      "image": "https://img.icons8.com/?size=200&id=21278&format=png",
+      "link": "https://www.youtube.com/watch?v=1Rs2ND1ryYc"
+    },
+    {
+      "id": "6",
+      "title": "JavaScript DOM Manipulation",
+      "description": "كيفية التعامل مع عناصر الصفحة ديناميكياً باستخدام DOM.",
+      "image": "https://img.icons8.com/?size=200&id=108784&format=png",
+      "link": "https://www.youtube.com/watch?v=0ik6X4DJKCc"
+    },
+    {
+      "id": "7",
+      "title": "React Basics",
+      "description": "مدخل إلى مكتبة React لتطوير تطبيقات ويب تفاعلية.",
+      "image": "https://img.icons8.com/?size=200&id=123603&format=png",
+      "link": "https://www.youtube.com/watch?v=w7ejDZ8SWv8"
+    },
+    {
+      "id": "8",
+      "title": "React Router",
+      "description": "التنقل بين الصفحات باستخدام مكتبة React Router.",
+      "image": "https://img.icons8.com/?size=200&id=123603&format=png",
+      "link": "https://www.youtube.com/watch?v=Law7wfdg_ls"
+    },
+    {
+      "id": "9",
+      "title": "State Management",
+      "description": "إدارة حالة التطبيق باستخدام Context API و Redux.",
+      "image": "https://img.icons8.com/?size=200&id=123603&format=png",
+      "link": "https://www.youtube.com/watch?v=CVpUuw9XSjY"
+    },
+    {
+      "id": "10",
+      "title": "Frontend Deployment",
+      "description": "رفع ونشر مواقع الويب على الإنترنت باستخدام منصات مثل Netlify و Vercel.",
+      "image": "https://img.icons8.com/?size=200&id=20906&format=png",
+      "link": "https://www.youtube.com/watch?v=4Wvh9d6NQUw"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "field": "Marketing",
+  "description": "التسويق مجال مهم لأي مشروع أو شركة، بيركز على جذب العملاء، زيادة المبيعات، وبناء العلامة التجارية. هتتعلم استراتيجيات التسويق الرقمي، التسويق عبر وسائل التواصل الاجتماعي، الإعلانات المدفوعة، تحسين محركات البحث (SEO)، وتحليل بيانات التسويق لاتخاذ قرارات أفضل.",
+  "image": "https://img.icons8.com/color/96/000000/artificial-intelligence.png",
+  "roadmap": [
+    {
+      "title": "Introduction to Marketing",
+      "description": "مقدمة لفهم أساسيات التسويق، أهميته، وأنواع التسويق التقليدي والرقمي.",
+      "image": "https://img.icons8.com/color/96/000000/marketing-management.png",
+      "link": "https://www.youtube.com/watch?v=8FUXjN6tTTI"
+    },
+    {
+      "title": "Digital Marketing Basics",
+      "description": "تعلم أساسيات التسويق الرقمي بما في ذلك البريد الإلكتروني، وسائل التواصل الاجتماعي، والمحتوى.",
+      "image": "https://img.icons8.com/color/96/000000/digital-marketing.png",
+      "link": "https://www.youtube.com/watch?v=3u2_wJebK5E"
+    },
+    {
+      "title": "Social Media Marketing",
+      "description": "استراتيجيات التسويق عبر منصات التواصل الاجتماعي مثل Facebook, Instagram, LinkedIn.",
+      "image": "https://img.icons8.com/color/96/000000/social-network.png",
+      "link": "https://www.youtube.com/watch?v=7QrFf7_V9bU"
+    },
+    {
+      "title": "SEO Fundamentals",
+      "description": "تعلم تحسين محركات البحث لزيادة ظهور موقعك على الإنترنت وجذب زيارات مستهدفة.",
+      "image": "https://img.icons8.com/color/96/000000/seo.png",
+      "link": "https://www.youtube.com/watch?v=DvwS7cV9GmQ"
+    },
+    {
+      "title": "Content Marketing",
+      "description": "استراتيجيات إنشاء محتوى جذاب وفعال يجذب الجمهور ويزيد من التفاعل.",
+      "image": "https://img.icons8.com/color/96/000000/content.png",
+      "link": "https://www.youtube.com/watch?v=sl1jzvO0G94"
+    },
+    {
+      "title": "Email Marketing",
+      "description": "كيفية تصميم حملات بريد إلكتروني فعالة وتحليل نتائجها.",
+      "image": "https://img.icons8.com/color/96/000000/email.png",
+      "link": "https://www.youtube.com/watch?v=frVEWhcSm5s"
+    },
+    {
+      "title": "Marketing Analytics",
+      "description": "تحليل بيانات التسويق لفهم سلوك العملاء وتحسين الحملات التسويقية.",
+      "image": "https://img.icons8.com/color/96/000000/combo-chart--v1.png",
+      "link": "https://www.youtube.com/watch?v=5J6jACd_Lrk"
+    }
+  ]
+}

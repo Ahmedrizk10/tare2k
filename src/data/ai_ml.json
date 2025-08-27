@@ -1,0 +1,49 @@
+{
+  "field": "AI",
+  "description": "الذكاء الاصطناعي وعلوم البيانات مجال بيركز على تحليل البيانات الضخمة، واستخدام الخوارزميات والتعلم الآلي (Machine Learning) والتعلم العميق (Deep Learning) لبناء أنظمة ذكية قادرة على اتخاذ القرارات والتنبؤ. ده من أكتر المجالات المطلوبة حاليًا.",
+  "image": "https://img.icons8.com/color/96/000000/artificial-intelligence.png",
+  "roadmap": [
+    {
+      "title": "Introduction to Data Science",
+      "description": "مقدمة عن علم البيانات، أهميته، ومجالات استخدامه في الحياة اليومية.",
+      "image": "https://img.icons8.com/color/96/000000/data-configuration.png",
+      "link": "https://www.youtube.com/watch?v=X3paOmcrTjQ"
+    },
+    {
+      "title": "Python for Data Science",
+      "description": "تعلم لغة Python كأساس للعمل في تحليل البيانات والذكاء الاصطناعي.",
+      "image": "https://img.icons8.com/color/96/000000/python.png",
+      "link": "https://www.youtube.com/watch?v=LHBE6Q9XlzI"
+    },
+    {
+      "title": "Statistics & Probability",
+      "description": "تعلم أساسيات الإحصاء والاحتمالات لتحليل البيانات بشكل علمي.",
+      "image": "https://img.icons8.com/color/96/000000/statistics.png",
+      "link": "https://www.youtube.com/watch?v=xxpc-HPKN28"
+    },
+    {
+      "title": "Machine Learning Basics",
+      "description": "مقدمة في التعلم الآلي وخوارزمياته الأساسية مثل الانحدار والتصنيف.",
+      "image": "https://img.icons8.com/color/96/000000/machine-learning.png",
+      "link": "https://www.youtube.com/watch?v=Gv9_4yMHFhI"
+    },
+    {
+      "title": "Deep Learning & Neural Networks",
+      "description": "التعرف على الشبكات العصبية العميقة وتطبيقاتها في الرؤية الحاسوبية ومعالجة اللغة.",
+      "image": "https://img.icons8.com/color/96/000000/neural.png",
+      "link": "https://www.youtube.com/watch?v=aircAruvnKk"
+    },
+    {
+      "title": "Data Visualization",
+      "description": "تعلم عرض البيانات باستخدام مكتبات مثل Matplotlib و Seaborn وPowerBI.",
+      "image": "https://img.icons8.com/color/96/000000/combo-chart--v1.png",
+      "link": "https://www.youtube.com/watch?v=RQxzOBWfozA"
+    },
+    {
+      "title": "AI Applications & Projects",
+      "description": "تطبيقات عملية للذكاء الاصطناعي مثل Chatbots, Image Recognition, NLP.",
+      "image": "https://img.icons8.com/color/96/000000/robot-2.png",
+      "link": "https://www.youtube.com/watch?v=5NgNicANyqM"
+    }
+  ]
+}

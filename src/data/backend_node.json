@@ -1,0 +1,49 @@
+{
+  "field": "Backend Development",
+  "description": "الـ Backend هو الجزء المسئول عن منطق التطبيق وإدارة البيانات وربط الواجهة الأمامية بقاعدة البيانات. في الباك اند هتتعلم لغات برمجة زي Node.js, Python, Java أو PHP، وإزاي تبني RESTful APIs وتتعامل مع قواعد البيانات SQL و NoSQL، وكمان تهتم بالـ Authentication, Security, Deployment.",
+  "image": "https://img.icons8.com/color/96/000000/server.png",
+  "roadmap": [
+    {
+      "id": 1,
+      "title": "Node.js Crash Course",
+      "description": "مقدمة عملية لتعلم Node.js لبناء تطبيقات ويب بسيطة والتعامل مع السيرفر.",
+      "image": "https://img.icons8.com/color/96/000000/nodejs.png",
+      "link": "https://www.youtube.com/watch?v=TlB_eWDSMt4"
+    },
+    {
+      "id": 2,
+      "title": "Express.js Tutorial",
+      "description": "تعلم إطار العمل Express.js لبناء RESTful APIs والتعامل مع Routing و Middleware.",
+      "image": "https://img.icons8.com/color/96/000000/api.png",
+      "link": "https://www.youtube.com/watch?v=L72fhGm1tfE"
+    },
+    {
+      "id": 3,
+      "title": "Databases with SQL",
+      "description": "شرح أساسيات قواعد البيانات SQL (MySQL, PostgreSQL) وكيفية عمل Queries وربطها مع التطبيقات.",
+      "image": "https://img.icons8.com/color/96/000000/sql.png",
+      "link": "https://www.youtube.com/watch?v=HXV3zeQKqGY"
+    },
+    {
+      "id": 4,
+      "title": "NoSQL with MongoDB",
+      "description": "تعلم استخدام MongoDB كـ NoSQL Database لتخزين البيانات بطريقة مرنة.",
+      "image": "https://img.icons8.com/color/96/000000/mongodb.png",
+      "link": "https://www.youtube.com/watch?v=ExcRbA7fy_A"
+    },
+    {
+      "id": 5,
+      "title": "Authentication & Security",
+      "description": "تعلم كيفية تأمين تطبيقاتك باستخدام JWT, OAuth, Sessions وأفضل ممارسات حماية السيرفر.",
+      "image": "https://img.icons8.com/color/96/000000/lock-2.png",
+      "link": "https://www.youtube.com/watch?v=7Q17ubqLfaM"
+    },
+    {
+      "id": 6,
+      "title": "Deployment Basics",
+      "description": "تعلم رفع تطبيقاتك على خوادم حقيقية مثل Heroku, Vercel, AWS وتطبيق CI/CD.",
+      "image": "https://img.icons8.com/color/96/000000/cloud.png",
+      "link": "https://www.youtube.com/watch?v=OltY8JIaP-4"
+    }
+  ]
+}

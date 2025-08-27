@@ -1,0 +1,49 @@
+{
+  "field": "Business",
+  "description": "مجال ريادة الأعمال وإدارة الأعمال بيركز على تعلم كيفية إنشاء وإدارة الشركات والمشاريع الناشئة. هتتعلم التخطيط، التسويق، الإدارة المالية، اتخاذ القرارات، وفهم احتياجات السوق والعملاء. المجال ده مهم لكل حد عايز يبدأ مشروعه الخاص أو يطور مهاراته الإدارية.",
+  "image": "https://img.icons8.com/color/96/000000/business.png",
+  "roadmap": [
+    {
+      "title": "Introduction to Entrepreneurship",
+      "description": "مقدمة لفهم مفهوم ريادة الأعمال، الأنواع المختلفة للشركات وكيفية البدء في مشروع ناجح.",
+      "image": "https://img.icons8.com/color/96/000000/idea-sharing.png",
+      "link": "https://www.youtube.com/watch?v=1f9K9jRJm0E"
+    },
+    {
+      "title": "Business Planning Basics",
+      "description": "تعلم كيفية عمل خطة عمل شاملة (Business Plan) للمشروع الخاص بك.",
+      "image": "https://img.icons8.com/color/96/000000/business-plan.png",
+      "link": "https://www.youtube.com/watch?v=6xVFF4ik4eE"
+    },
+    {
+      "title": "Marketing Fundamentals",
+      "description": "أساسيات التسويق وكيفية وضع استراتيجيات للوصول للعملاء وزيادة المبيعات.",
+      "image": "https://img.icons8.com/color/96/000000/marketing.png",
+      "link": "https://www.youtube.com/watch?v=8FUXjN6tTTI"
+    },
+    {
+      "title": "Financial Management",
+      "description": "كيفية إدارة الموارد المالية للشركة، فهم الإيرادات والمصروفات وتحليل الربحية.",
+      "image": "https://img.icons8.com/color/96/000000/accounting.png",
+      "link": "https://www.youtube.com/watch?v=l3o8LKaQZGA"
+    },
+    {
+      "title": "Leadership & Management Skills",
+      "description": "تعلم مهارات القيادة، إدارة الفريق واتخاذ القرارات الفعالة.",
+      "image": "https://img.icons8.com/color/96/000000/leadership.png",
+      "link": "https://www.youtube.com/watch?v=5Yf9P5mK9Og"
+    },
+    {
+      "title": "Business Strategy",
+      "description": "فهم استراتيجيات النمو والتوسع والتعامل مع المنافسين في السوق.",
+      "image": "https://img.icons8.com/color/96/000000/business-strategy.png",
+      "link": "https://www.youtube.com/watch?v=6Q7tUeO6a5E"
+    },
+    {
+      "title": "Startup Case Studies",
+      "description": "تحليل دراسات حالة لمشاريع ناشئة ناجحة وفهم عوامل نجاحها وفشلها.",
+      "image": "https://img.icons8.com/color/96/000000/startup.png",
+      "link": "https://www.youtube.com/watch?v=6l8B6V5W2ZU"
+    }
+  ]
+}
