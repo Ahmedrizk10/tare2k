@@ -1,0 +1,49 @@
+{
+  "field": "Video Editing",
+  "description": "مونتاج الفيديو مجال بيركز على إنشاء وتحرير الفيديوهات لجعلها جذابة واحترافية. هتتعلم تقطيع الفيديوهات، إضافة تأثيرات، تحسين الصوت، الانتقالات، والتحريك البسيط. الأدوات المشهورة تشمل Adobe Premiere Pro, After Effects, Final Cut Pro، وDaVinci Resolve.",
+  "image": "https://img.icons8.com/color/96/000000/video-editing.png",
+  "roadmap": [
+    {
+      "title": "Introduction to Video Editing",
+      "description": "مقدمة لفهم أساسيات تحرير الفيديو وأهميته في التسويق وصناعة المحتوى.",
+      "image": "https://img.icons8.com/color/96/000000/video.png",
+      "link": "https://www.youtube.com/watch?v=Hls3Tp7JS8E"
+    },
+    {
+      "title": "Adobe Premiere Pro Basics",
+      "description": "تعلم أساسيات Premiere Pro لتقطيع الفيديوهات وإضافة التأثيرات الأساسية.",
+      "image": "https://img.icons8.com/color/96/000000/adobe-premiere.png",
+      "link": "https://www.youtube.com/watch?v=Hls3Tp7JS8E"
+    },
+    {
+      "title": "After Effects Basics",
+      "description": "تعلم إنشاء الرسوم المتحركة والتأثيرات البصرية باستخدام After Effects.",
+      "image": "https://img.icons8.com/color/96/000000/adobe-after-effects.png",
+      "link": "https://www.youtube.com/watch?v=1H1vRj_5p38"
+    },
+    {
+      "title": "DaVinci Resolve Basics",
+      "description": "تحرير الفيديوهات بشكل احترافي وتصحيح الألوان باستخدام DaVinci Resolve.",
+      "image": "https://img.icons8.com/color/96/000000/davinci-resolve.png",
+      "link": "https://www.youtube.com/watch?v=0v9oDHcV1kA"
+    },
+    {
+      "title": "Final Cut Pro Basics",
+      "description": "تحرير الفيديوهات على أجهزة Mac باستخدام Final Cut Pro.",
+      "image": "https://img.icons8.com/color/96/000000/final-cut-pro.png",
+      "link": "https://www.youtube.com/watch?v=4THvZONmKow"
+    },
+    {
+      "title": "Video Transitions & Effects",
+      "description": "تعلم إضافة الانتقالات والتأثيرات لجعل الفيديوهات أكثر جاذبية.",
+      "image": "https://img.icons8.com/color/96/000000/effects.png",
+      "link": "https://www.youtube.com/watch?v=9tQwka3bQ2s"
+    },
+    {
+      "title": "Video Editing Projects",
+      "description": "تطبيق عملي على تحرير فيديوهات حقيقية وإضافة المؤثرات والموسيقى.",
+      "image": "https://img.icons8.com/color/96/000000/project.png",
+      "link": "https://www.youtube.com/watch?v=p2n1xYqS5X4"
+    }
+  ]
+}

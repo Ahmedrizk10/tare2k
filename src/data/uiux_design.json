@@ -1,0 +1,43 @@
+{
+  "field": "UI / UX Design",
+  "description": "مجال الـ UI/UX Design بيدمج بين تجربة المستخدم (UX) وشكل وتصميم الواجهة (UI). الهدف إنك تبني منتجات سهلة الاستخدام وجذابة بصريًا. في UX هتركز على البحث، تحليل المستخدمين، رسم Wireframes وتجربة النماذج الأولية. أما UI فبيركز على اختيار الألوان، الخطوط، المسافات، وعناصر التفاعل باستخدام أدوات زي Figma و Adobe XD.",
+  "image": "https://img.icons8.com/color/96/000000/design.png",
+  "roadmap": [
+    {
+      "title": "Intro to UX Design",
+      "description": "مقدمة عن تجربة المستخدم وكيفية تحليل احتياجات المستخدمين لتصميم منتجات أفضل.",
+      "image": "https://img.icons8.com/color/96/000000/user.png",
+      "link": "https://www.youtube.com/watch?v=Ovj4hFxko7c"
+    },
+    {
+      "title": "UI Design Fundamentals",
+      "description": "تعلم مبادئ تصميم الواجهات مثل الألوان، التباين، الخطوط، والمسافات.",
+      "image": "https://img.icons8.com/color/96/000000/paint-palette.png",
+      "link": "https://www.youtube.com/watch?v=3tG1jUQbuSI"
+    },
+    {
+      "title": "Wireframing Basics",
+      "description": "خطوة مهمة قبل التصميم النهائي، هتتعلم إزاي ترسم الهيكل الأساسي للشاشات (Wireframes).",
+      "image": "https://img.icons8.com/color/96/000000/blueprint.png",
+      "link": "https://www.youtube.com/watch?v=Ql3pYUumU5Y"
+    },
+    {
+      "title": "Prototyping with Figma",
+      "description": "تعلم استخدام Figma لعمل نماذج أولية تفاعلية (Prototypes) واختبار تجربة المستخدم.",
+      "image": "https://img.icons8.com/color/96/000000/figma--v1.png",
+      "link": "https://www.youtube.com/watch?v=FTFaQWZBqQ8"
+    },
+    {
+      "title": "UX Research",
+      "description": "دورة متخصصة في إجراء بحوث المستخدمين (Interviews, Surveys, Usability Testing).",
+      "image": "https://img.icons8.com/color/96/000000/research.png",
+      "link": "https://www.youtube.com/watch?v=Ovj4hFxko7c"
+    },
+    {
+      "title": "Design Systems",
+      "description": "تعلم كيفية إنشاء نظام تصميم (Design System) يضمن التناسق وسهولة التطوير.",
+      "image": "https://img.icons8.com/color/96/000000/design-system.png",
+      "link": "https://www.youtube.com/watch?v=RYDiDpW2VkM"
+    }
+  ]
+}

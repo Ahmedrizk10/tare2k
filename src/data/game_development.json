@@ -1,0 +1,49 @@
+{
+  "field": "Game Development",
+  "description": "تطوير الألعاب مجال ممتع وإبداعي بيركز على تصميم وبرمجة الألعاب للكمبيوتر والموبايل. هتتعلم استخدام محركات الألعاب مثل Unity و Unreal Engine، كتابة الأكواد بلغة C# أو C++، تصميم الشخصيات والمستويات، وفهم الفيزياء والتفاعل داخل اللعبة.",
+  "image": "https://img.icons8.com/color/96/000000/artificial-intelligence.png",
+  "roadmap": [
+    {
+      "title": "Introduction to Game Development",
+      "description": "مقدمة لفهم عملية تطوير الألعاب، أنواع الألعاب، ومراحل الإنتاج الأساسية.",
+      "image": "https://img.icons8.com/color/96/000000/game-level.png",
+      "link": "https://www.youtube.com/watch?v=J1d-1cALV2E"
+    },
+    {
+      "title": "Unity for Beginners",
+      "description": "تعلم استخدام محرك Unity لتصميم الألعاب وبرمجة الميكانيكا الأساسية.",
+      "image": "https://img.icons8.com/color/96/000000/unity.png",
+      "link": "https://www.youtube.com/watch?v=IlKaB1etrik"
+    },
+    {
+      "title": "C# Programming for Games",
+      "description": "أساسيات لغة C# لبرمجة الألعاب داخل Unity.",
+      "image": "https://img.icons8.com/color/96/000000/c-sharp-logo.png",
+      "link": "https://www.youtube.com/watch?v=GhQdlIFylQ8"
+    },
+    {
+      "title": "Unreal Engine Basics",
+      "description": "تعلم محرك Unreal Engine لإنشاء ألعاب ثلاثية الأبعاد واقعية.",
+      "image": "https://img.icons8.com/color/96/000000/unreal-engine.png",
+      "link": "https://www.youtube.com/watch?v=FZ9b3TZIH9I"
+    },
+    {
+      "title": "2D Game Development",
+      "description": "تصميم وبرمجة ألعاب ثنائية الأبعاد باستخدام Unity و أدوات الرسم.",
+      "image": "https://img.icons8.com/color/96/000000/2d.png",
+      "link": "https://www.youtube.com/watch?v=J1h6OrG3Fx4"
+    },
+    {
+      "title": "3D Game Development",
+      "description": "تعلم تصميم بيئات وشخصيات ثلاثية الأبعاد وبرمجتها داخل محركات الألعاب.",
+      "image": "https://img.icons8.com/color/96/000000/3d.png",
+      "link": "https://www.youtube.com/watch?v=j48LtUkZRjU"
+    },
+    {
+      "title": "Game Physics & Animation",
+      "description": "فهم الفيزياء داخل الألعاب والتحريك لجعل اللعبة واقعية وتفاعلية.",
+      "image": "https://img.icons8.com/color/96/000000/physics.png",
+      "link": "https://www.youtube.com/watch?v=2O0tQtQY2dY"
+    }
+  ]
+}

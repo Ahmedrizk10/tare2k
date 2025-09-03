@@ -1,0 +1,49 @@
+{
+  "field": "Cloud Computing",
+  "description": "الحوسبة السحابية بقت جزء أساسي من تطوير البرمجيات وإدارة البيانات. المجال ده بيخليك تشتغل على خدمات زي AWS, Azure, و Google Cloud لتخزين البيانات، نشر التطبيقات، وإدارة الأنظمة بكفاءة وسرعة.",
+  "image": "https://img.icons8.com/color/96/000000/cloud.png",
+  "roadmap": [
+    {
+      "title": "Introduction to Cloud Computing",
+      "description": "مقدمة لفهم مفهوم الكلاود، مميزاته وأنواعه (Public, Private, Hybrid).",
+      "image": "https://img.icons8.com/color/96/000000/cloud-checked--v1.png",
+      "link": "https://www.youtube.com/watch?v=dH0yz-Osy54"
+    },
+    {
+      "title": "AWS Fundamentals",
+      "description": "تعلم أساسيات Amazon Web Services مثل EC2, S3, RDS.",
+      "image": "https://img.icons8.com/color/96/000000/amazon-web-services.png",
+      "link": "https://www.youtube.com/watch?v=ulprqHHWlng"
+    },
+    {
+      "title": "Microsoft Azure Basics",
+      "description": "مقدمة عن Azure وخدماتها مثل App Services و Azure Storage.",
+      "image": "https://img.icons8.com/color/96/000000/azure-1.png",
+      "link": "https://www.youtube.com/watch?v=Q6W8a9iD1Qk"
+    },
+    {
+      "title": "Google Cloud Platform (GCP)",
+      "description": "التعرف على خدمات Google Cloud مثل Compute Engine و BigQuery.",
+      "image": "https://img.icons8.com/color/96/000000/google-cloud.png",
+      "link": "https://www.youtube.com/watch?v=O0CHk6Vtu7I"
+    },
+    {
+      "title": "Cloud Security",
+      "description": "كيفية تأمين التطبيقات والبيانات على السحابة.",
+      "image": "https://img.icons8.com/color/96/000000/cloud-lock.png",
+      "link": "https://www.youtube.com/watch?v=Nea3z8R3h2k"
+    },
+    {
+      "title": "DevOps on Cloud",
+      "description": "تطبيق مبادئ DevOps باستخدام أدوات مثل Docker, Kubernetes, Jenkins.",
+      "image": "https://img.icons8.com/color/96/000000/docker.png",
+      "link": "https://www.youtube.com/watch?v=9zUHg7xjIqQ"
+    },
+    {
+      "title": "Serverless Computing",
+      "description": "التعرف على سيرفرلس مثل AWS Lambda لتشغيل الأكواد بدون إدارة سيرفرات.",
+      "image": "https://img.icons8.com/color/96/000000/serverless.png",
+      "link": "https://www.youtube.com/watch?v=l9nh1l8ZIJQ"
+    }
+  ]
+}

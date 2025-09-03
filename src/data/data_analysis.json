@@ -1,0 +1,49 @@
+{
+  "field": "Data Analysis",
+  "description": "تحليل البيانات مجال بيركز على جمع البيانات، تنظيفها، تحليلها واستخراج المعلومات المهمة لاتخاذ قرارات أفضل. هتتعلم استخدام أدوات مثل Excel, SQL, Python وPower BI، مع تعلم الأساليب الإحصائية والرسوم البيانية لتفسير البيانات.",
+  "image": "https://img.icons8.com/color/96/000000/artificial-intelligence.png",
+  "roadmap": [
+    {
+      "title": "Introduction to Data Analysis",
+      "description": "مقدمة لفهم تحليل البيانات وأهميته في الأعمال واتخاذ القرارات.",
+      "image": "https://img.icons8.com/color/96/000000/data-configuration.png",
+      "link": "https://www.youtube.com/watch?v=5cjj2wO1ZMI"
+    },
+    {
+      "title": "Excel for Data Analysis",
+      "description": "تعلم استخدام Excel لتحليل البيانات باستخدام Pivot Tables و Formulas و Charts.",
+      "image": "https://img.icons8.com/color/96/000000/ms-excel.png",
+      "link": "https://www.youtube.com/watch?v=rwbho0CgEAE"
+    },
+    {
+      "title": "SQL for Data Analysis",
+      "description": "استخدام SQL لاستعلام قواعد البيانات واستخراج البيانات المطلوبة.",
+      "image": "https://img.icons8.com/color/96/000000/sql.png",
+      "link": "https://www.youtube.com/watch?v=HXV3zeQKqGY"
+    },
+    {
+      "title": "Python for Data Analysis",
+      "description": "تعلم Python ومكتباتها (Pandas, NumPy, Matplotlib) لمعالجة وتحليل البيانات.",
+      "image": "https://img.icons8.com/color/96/000000/python.png",
+      "link": "https://www.youtube.com/watch?v=r-uOLxNrNk8"
+    },
+    {
+      "title": "Data Visualization",
+      "description": "عرض البيانات بطريقة مفهومة باستخدام أدوات الرسوم البيانية مثل Matplotlib و Seaborn و Power BI.",
+      "image": "https://img.icons8.com/color/96/000000/combo-chart--v1.png",
+      "link": "https://www.youtube.com/watch?v=6bZ8gW3Hmrw"
+    },
+    {
+      "title": "Statistics for Data Analysis",
+      "description": "أساسيات الإحصاء المهمة لتحليل البيانات وفهم التوزيعات والاختبارات الإحصائية.",
+      "image": "https://img.icons8.com/color/96/000000/statistics.png",
+      "link": "https://www.youtube.com/watch?v=xxpc-HPKN28"
+    },
+    {
+      "title": "Advanced Data Analysis Projects",
+      "description": "تطبيق عملي على تحليل البيانات في مشاريع حقيقية باستخدام الأدوات السابقة.",
+      "image": "https://img.icons8.com/color/96/000000/project.png",
+      "link": "https://www.youtube.com/watch?v=9p2fyjD8r0g"
+    }
+  ]
+}

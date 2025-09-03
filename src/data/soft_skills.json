@@ -1,0 +1,49 @@
+{
+  "field": "Soft Skills",
+  "description": "المهارات الشخصية (Soft Skills) مهمة جدًا للنجاح في أي مجال عمل. تشمل مهارات التواصل، إدارة الوقت، حل المشكلات، العمل الجماعي، القيادة، والتفكير النقدي. تحسين المهارات دي بيخلي الشخص أكثر فاعلية وقدرة على التعامل مع الآخرين وتحقيق أهدافه المهنية.",
+  "image": "https://img.icons8.com/color/96/000000/artificial-intelligence.png",
+  "roadmap": [
+    {
+      "title": "Communication Skills",
+      "description": "تعلم أساسيات التواصل الفعال سواء شفهيًا أو كتابيًا مع الزملاء والعملاء.",
+      "image": "https://img.icons8.com/color/96/000000/communication.png",
+      "link": "https://www.youtube.com/watch?v=JZK43m4f2cM"
+    },
+    {
+      "title": "Time Management",
+      "description": "كيفية إدارة الوقت بفعالية وزيادة الإنتاجية باستخدام أدوات وتقنيات عملية.",
+      "image": "https://img.icons8.com/color/96/000000/time.png",
+      "link": "https://www.youtube.com/watch?v=oTugjssqOT0"
+    },
+    {
+      "title": "Problem Solving & Critical Thinking",
+      "description": "تطوير مهارات حل المشكلات واتخاذ القرارات بطريقة عقلانية ومنهجية.",
+      "image": "https://img.icons8.com/color/96/000000/problem-solving.png",
+      "link": "https://www.youtube.com/watch?v=4qjIkK0kChM"
+    },
+    {
+      "title": "Teamwork & Collaboration",
+      "description": "التعاون مع الآخرين بفعالية، بناء فرق قوية والتعامل مع اختلافات الشخصيات.",
+      "image": "https://img.icons8.com/color/96/000000/teamwork.png",
+      "link": "https://www.youtube.com/watch?v=8GJQyD9C8Ik"
+    },
+    {
+      "title": "Leadership Skills",
+      "description": "تعلم مهارات القيادة، تحفيز الفريق، وإدارة المشاريع بفعالية.",
+      "image": "https://img.icons8.com/color/96/000000/leadership.png",
+      "link": "https://www.youtube.com/watch?v=5Yf9P5mK9Og"
+    },
+    {
+      "title": "Emotional Intelligence",
+      "description": "فهم العواطف الشخصية وعواطف الآخرين لتحسين التواصل واتخاذ القرارات.",
+      "image": "https://img.icons8.com/color/96/000000/emotional-intelligence.png",
+      "link": "https://www.youtube.com/watch?v=Y7m9eNoB3NU"
+    },
+    {
+      "title": "Personal Development & Productivity",
+      "description": "استراتيجيات لتحسين الذات وزيادة الإنتاجية اليومية وتحقيق الأهداف.",
+      "image": "https://img.icons8.com/color/96/000000/personal-organization.png",
+      "link": "https://www.youtube.com/watch?v=1vx8iUvfyCY"
+    }
+  ]
+}
