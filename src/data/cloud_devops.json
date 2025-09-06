@@ -1,7 +1,7 @@
 {
   "field": "Cloud Computing",
   "description": "الحوسبة السحابية بقت جزء أساسي من تطوير البرمجيات وإدارة البيانات. المجال ده بيخليك تشتغل على خدمات زي AWS, Azure, و Google Cloud لتخزين البيانات، نشر التطبيقات، وإدارة الأنظمة بكفاءة وسرعة.",
-  "image": "https://img.icons8.com/color/96/000000/cloud.png",
+  "image": "https://media.geeksforgeeks.org/wp-content/uploads/20240308115926/How-to-Become-a-Cloud-Engineer--Complete-Learning-Roadmap.webp",
   "roadmap": [
     {
       "title": "Introduction to Cloud Computing",

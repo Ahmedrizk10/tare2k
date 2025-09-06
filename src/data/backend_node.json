@@ -1,7 +1,7 @@
 {
   "field": "Backend Development",
   "description": "الـ Backend هو الجزء المسئول عن منطق التطبيق وإدارة البيانات وربط الواجهة الأمامية بقاعدة البيانات. في الباك اند هتتعلم لغات برمجة زي Node.js, Python, Java أو PHP، وإزاي تبني RESTful APIs وتتعامل مع قواعد البيانات SQL و NoSQL، وكمان تهتم بالـ Authentication, Security, Deployment.",
-  "image": "https://img.icons8.com/color/96/000000/server.png",
+  "image": "https://media.geeksforgeeks.org/wp-content/uploads/20240529152324/Backend-Developer-Roadmap-copy.webp",
   "roadmap": [
     {
       "id": 1,
