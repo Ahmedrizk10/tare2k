@@ -8,7 +8,7 @@ import Who from '../who'
 import CouresDetailsPage from '../CouresDetailsPage'     
 import CouresDetails from '../CouresDetailsCard'    
 import ScrollToTop from '../ScrollToTop'
-
+import ContactUs from '../ContactUs'
 const Router = () => {
     
     const router = createBrowserRouter([
@@ -33,6 +33,11 @@ const Router = () => {
                 {
                     path: "/couresDetailsPage",
                     element: <CouresDetailsPage />,
+                },
+
+                {
+                    path: "/contact",
+                    element: <ContactUs />,
                 },
             ]
         },

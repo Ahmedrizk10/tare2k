@@ -11,7 +11,7 @@ const CouresDetailsPage = () => {
     <>
     <ScrollToTop />
       <div>
-        <h2 className="text-xl font-bold text-center text-white  bg-blue-600 py-3 rounded-md mb-8 ">
+        <h2 className="text-xl font-bold text-center text-white  bg-blue-600 py-3  mb-8 ">
           تفاصيل كورس ( {field} )
         </h2>
       </div>

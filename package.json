@@ -12,6 +12,7 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.1.12",
     "@xyflow/react": "^12.8.4",
+    "aos": "^2.3.4",
     "flowbite": "^3.1.2",
     "flowbite-react": "^0.12.7",
     "mermaid": "^11.10.1",
