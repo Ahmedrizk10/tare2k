@@ -38,7 +38,7 @@ const NavBar = () => {
     <>
     <ScrollToTop />
     <header dir="rtl" className="sticky top-5 left-0 right-0 z-50 ">
-      <div className=" md:w-[1200px] mx-auto  flex justify-between items-center my-5 backdrop-blur-sm rounded-full z-10 shadow-lg px-7 py-2 ">
+      <div className=" md:w-[1200px] mx-auto  flex justify-between items-center my-5 backdrop-blur-lg rounded-4xl z-10 shadow-lg px-7 py-2 ">
         <div className="logo">
           <img src={logo} alt="الشعار" className="w-30 md:w-40" />
         </div>

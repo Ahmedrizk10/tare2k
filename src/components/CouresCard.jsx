@@ -16,10 +16,10 @@ const CouresCard = ({ field, description, image, roadmap }) => {
         flex flex-col 
         overflow-hidden
         transition-all duration-500 
-        h-[500px] w-full"
+        h-[600px] w-full"
       >
         
-        <div className="w-full h-full flex items-center justify-center overflow-hidden">
+        <div className="w-full h-[600px] flex items-center justify-center overflow-hidden">
           <img
             src={image}
             alt={field}
@@ -33,7 +33,7 @@ const CouresCard = ({ field, description, image, roadmap }) => {
             {field}
           </h1>
 
-          <p className="text-gray-700 dark:text-gray-300 text-sm leading-relaxed mt-3 mb-5 px-2 flex-grow overflow-y-auto custom-scrollbar">
+          <p className= " [word-spacing:0.1rem] text-gray-700 dark:text-gray-300 text-sm leading-relaxed mt-3 mb-5 px-2 flex-grow overflow-y-auto custom-scrollbar">
             {description}
           </p>
 

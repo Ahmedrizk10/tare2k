@@ -1,0 +1,44 @@
+{
+    "field": "Dropshipping",
+    "description": "الدروب شبينج هو نموذج عمل تجاري بتبيع فيه منتجات من غير ما يكون عندك مخزون، المورد هو اللي بيشحن للعميل مباشرة. مناسب للي عايز يبدأ تجارة إلكترونية بتكلفة قليلة.",
+    "image": "https://img.icons8.com/color/96/000000/shopping-cart.png",
+    "roadmap": [
+      {
+        "title": "Introduction to Dropshipping",
+        "description": "مقدمة عن مفهوم الدروب شبينج، مميزاته وعيوبه، وهل هو مناسب ليك ولا لأ.",
+        "image": "https://img.icons8.com/color/96/000000/info.png",
+        "link": "https://www.youtube.com/watch?v=fp1nFLBdXs8"
+      },
+      {
+        "title": "Finding a Niche & Suppliers",
+        "description": "إزاي تختار نيتش مربح وتلاقي موردين موثوقين (AliExpress, Spocket).",
+        "image": "https://img.icons8.com/color/96/000000/product.png",
+        "link": "https://www.youtube.com/watch?v=5dBpOQ1xW9Y"
+      },
+      {
+        "title": "Building Your Store",
+        "description": "شرح عملي لإعداد متجر Shopify وربطه بالموردين.",
+        "image": "https://img.icons8.com/color/96/000000/shopify.png",
+        "link": "https://www.youtube.com/watch?v=XMLjZB1ASUM"
+      },
+      {
+        "title": "Marketing & Ads",
+        "description": "إعلانات فيسبوك و تيك توك، تحسين SEO، وزيادة المبيعات.",
+        "image": "https://img.icons8.com/color/96/000000/marketing.png",
+        "link": "https://www.youtube.com/watch?v=qtZkY3lG-VY"
+      },
+      {
+        "title": "Scaling & Automation",
+        "description": "إزاي تكبر البزنس بتاعك وتستخدم أدوات للأتمتة زي AutoDS و DSers.",
+        "image": "https://img.icons8.com/color/96/000000/process.png",
+        "link": "https://www.youtube.com/watch?v=tsF_5sNw2iM"
+      },
+      {
+        "title": "Case Studies & Success Stories",
+        "description": "قصص نجاح ناس وصلت لمبيعات ضخمة من الدروب شبينج وأهم الدروس المستفادة.",
+        "image": "https://img.icons8.com/color/96/000000/success.png",
+        "link": "https://www.youtube.com/watch?v=nXcqjmbFXlQ"
+      }
+    ]
+  }
+  

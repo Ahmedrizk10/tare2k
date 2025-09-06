@@ -16,6 +16,8 @@ import Data from "../data/data_analysis.json";
 import Game from "../data/game_development.json";
 import Graphic from "../data/graphic_design.json";
 import ScrollToTop from "./ScrollToTop";
+import Dropshipping from "../data/Dropshipping.json";
+import Entrepreneurship from "../data/Entrepreneurship.json";
 const Courses = () => {
   // لو الملف جاي Array أو Object
 
@@ -107,6 +109,18 @@ const Courses = () => {
           description={Game.description}
           image={Game.image}
           roadmap={Game.roadmap}
+        />
+        <CouresCard
+          field={Dropshipping.field}
+          description={Dropshipping.description}
+          image={Dropshipping.image}
+          roadmap={Dropshipping.roadmap}
+        />
+        <CouresCard
+          field={Entrepreneurship.field}
+          description={Entrepreneurship.description}
+          image={Entrepreneurship.image}
+          roadmap={Entrepreneurship.roadmap}
         />
       </div>
     </>

@@ -1,0 +1,44 @@
+{
+    "field": "Entrepreneurship",
+    "description": "ريادة الأعمال هي فن إنشاء وإدارة مشروع جديد بهدف تقديم قيمة أو منتج مبتكر وتحقيق أرباح. الكورس ده هيساعدك تفهم إزاي تبدأ فكرة من الصفر وتحوّلها لـ بيزنس ناجح.",
+    "image": "https://img.icons8.com/color/96/000000/startup.png",
+    "roadmap": [
+      {
+        "title": "Introduction to Entrepreneurship",
+        "description": "مقدمة مبسطة وسهلة للمبتدئين عن ريادة الأعمال، الخطوة الأولى لو أنت جديد في المجال.",
+        "image": "https://img.icons8.com/color/96/000000/info.png",
+        "link": "https://www.youtube.com/watch?v=vKlySNdDtZA"
+      },
+      {
+        "title": "How to Find a Business Idea",
+        "description": "طرق عملية لاكتشاف فكرة مشروع ناجحة وتنفيذها صح.",
+        "image": "https://img.icons8.com/color/96/000000/idea.png",
+        "link": "https://www.youtube.com/watch?v=xHZMw-98Hs8"
+      },
+      {
+        "title": "Evaluating Startup Ideas",
+        "description": "إزاي تقيّم أفكار المشاريع وتحدد الأنسب للسوق.",
+        "image": "https://img.icons8.com/color/96/000000/strategy.png",
+        "link": "https://www.youtube.com/watch?v=Th8JoIan4dg"
+      },
+      {
+        "title": "Scaling with AI & Reddit for Idea Validation",
+        "description": "استخدم أدوات حديثة زي الذكاء الاصطناعي و Reddit للحصول على أفكار مشاريع برؤية مستقبلية.",
+        "image": "https://img.icons8.com/color/96/000000/artificial-intelligence.png",
+        "link": "https://www.youtube.com/watch?v=F7MxPxNbFUw"
+      },
+      {
+        "title": "Startup Pitfalls to Avoid",
+        "description": "مشاريع ممكن تبدو مغرية لكنها ممكن تكون ضارة ... تعرف عليها ليكون مشروعك قوي.",
+        "image": "https://img.icons8.com/color/96/000000/error.png",
+        "link": "https://www.youtube.com/watch?v=1rXXRdB3TJI"
+      },
+      {
+        "title": "Case Studies & Success Stories",
+        "description": "شاهد دراسات حالة وقصص نجاح من واقع رياديين علشان تتعلم من تجاربهم.",
+        "image": "https://img.icons8.com/color/96/000000/success.png",
+        "link": "https://www.youtube.com/watch?v=g9NMf5BNMao"
+      }
+    ]
+  }
+  
