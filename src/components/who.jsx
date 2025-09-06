@@ -4,7 +4,6 @@ import { who } from "../assets/index.js";
 
 const Who = () => {
   const [isVisible, setIsVisible] = useState(false);
-  const [darkMode, setDarkMode] = useState(false);
 
   const team = [
     {
