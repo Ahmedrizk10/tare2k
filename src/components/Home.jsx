@@ -1,10 +1,13 @@
 import React from 'react'
-import { home } from '../assets/index.js'
+import { home, MobImage } from '../assets/index.js'
 import { Link } from 'react-router-dom'
 import { useEffect } from 'react'
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import ScrollToTop from './ScrollToTop'
+import MobileSection from './MobileSection.jsx';
+import Start from './start.jsx';
+import AutoPlaySwiper from './AutoPlaySwiper.jsx';
 
 
 const Home = () => {
@@ -32,11 +35,13 @@ const Home = () => {
                 </div>
                 <div className='HomeImage flex justify-center drop-shadow-[0_0_100px_#11b8f0]'  data-aos="fade-right">
                     <img src={home} alt="" className=""/>
-                    
                 </div>
             </div>
         </div>
-    </div>
+          <MobileSection  />
+          <Start />
+          <AutoPlaySwiper />
+        </div>
   )
 }
 
