@@ -1,4 +1,4 @@
-import React from "react";
+import React  from "react";
 import { logo } from "../assets/index.js";
 import { TiThMenu } from "react-icons/ti";
 import { useState, useEffect } from "react";
@@ -9,9 +9,25 @@ import ScrollToTop from "./ScrollToTop";
 
 const NavBar = () => {
   const [close, setClose] = useState(false);
+
+useEffect(() => {
+  const handleResize = () => {
+    if (window.innerWidth >= 768) {
+      setClose(false);
+    }
+  };
+
+  window.addEventListener("resize", handleResize);
+
+  return () => {
+    window.removeEventListener("resize", handleResize);
+  };
+}, []);
+
   const toggleMenu = () => {
     setClose(!close);
   };
+
   const [darkMode, setDarkMode] = useState(false);
   useEffect(() => {
     const save = localStorage.getItem("theme");
@@ -45,42 +61,41 @@ const NavBar = () => {
 
         <nav>
           <ul className="hidden md:flex gap-5 font-bold dark:text-white text-black">
-            <li>
+            <li                 className="cursor-pointer hover:text-[#11baf0]  transition duration-700 transform hover:scale-110 p-2"
+>
               <Link
                 to="/"
-                className="cursor-pointer hover:text-[#11baf0] transition"
               >
                 الرئيسية
               </Link>
             </li>
-            <li>
+            <li                 className="cursor-pointer hover:text-[#11baf0]  transition duration-700 transform hover:scale-110 p-2"
+>
               <Link
                 to="/courses"
-                className="cursor-pointer hover:text-[#11baf0] transition"
               >
                 الكورسات
               </Link>
             </li>
-            <li>
+            <li                 className="cursor-pointer hover:text-[#11baf0]  transition duration-700 transform hover:scale-110 p-2"
+>
               <Link
                 to="/services"
-                className="cursor-pointer hover:text-[#11baf0] transition"
               >
                 الخدمات
               </Link>
             </li>
-            <li>
+            <li                 className="cursor-pointer hover:text-[#11baf0]  transition duration-700 transform hover:scale-110 p-2"
+>
               <Link
                 to="/who"
-                className="cursor-pointer hover:text-[#11baf0] transition"
               >
                 من نحن
               </Link>
             </li>
-            <li>
+            <li                 className="cursor-pointer hover:text-[#11baf0]  transition duration-700 transform hover:scale-110 p-2">
               <Link
                 to="/contact"
-                className="cursor-pointer hover:text-[#11baf0] transition"
               >
                 تواصل معنا
               </Link>
@@ -108,7 +123,7 @@ const NavBar = () => {
           display: close ? "block" : "none",
 
           position: "fixed",
-          top: "44%",
+          top: "38%",
           left: "50%",
           transform: "translate(-50%, -50%)",
           zIndex: "100",
@@ -127,19 +142,19 @@ const NavBar = () => {
         }}
       >
         <ul className="flex flex-col gap-5">
-          <li className="cursor-pointer hover:text-[#11baf0] transition">
+          <li className="cursor-pointer hover:text-[#11baf0]  transition duration-700 transform hover:scale-110 p-2">
             <Link to="/">الرئيسية</Link>
           </li>
-          <li className="cursor-pointer hover:text-[#11baf0] transition">
+          <li className="cursor-pointer hover:text-[#11baf0]  transition duration-700 transform hover:scale-110 p-2">
             <Link to="/courses">الكورسات</Link>
           </li>
-          <li className="cursor-pointer hover:text-[#11baf0] transition">
+          <li className="cursor-pointer hover:text-[#11baf0]  transition duration-700 transform hover:scale-110 p-2">
             <Link to="/couresDetails">الخدمات</Link>
           </li>
-          <li className="cursor-pointer hover:text-[#11baf0] transition">
+          <li className="cursor-pointer hover:text-[#11baf0]  transition duration-700 transform hover:scale-110 p-2">
             <Link to="/who">من نحن</Link>
           </li>
-          <li className="cursor-pointer hover:text-[#11baf0] transition">
+          <li className="cursor-pointer hover:text-[#11baf0]  transition duration-700 transform hover:scale-110 p-2">
             <Link to="/contact">تواصل معنا</Link>
           </li>
         </ul>

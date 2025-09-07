@@ -1,8 +1,18 @@
-import React from "react";
+import React , { useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import ScrollToTop from "./ScrollToTop";
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 
 const CouresCard = ({ field, description, image, roadmap }) => {
+
+    useEffect(() => {
+  AOS.init({
+    duration: 1000, // animation duration in ms
+    once: true,     // whether animation should happen only once
+  });
+}, []);
+
   const navigate = useNavigate();
   return (
     <>
@@ -16,16 +26,18 @@ const CouresCard = ({ field, description, image, roadmap }) => {
         flex flex-col 
         overflow-hidden
         transition-all duration-500 
-        h-[600px] w-full"
-      >
+        h-[500px] w-full 
+         " data-aos="fade-up"
         
-        <div className="w-full h-[600px] flex items-center justify-center overflow-hidden">
-          <img
-            src={image}
-            alt={field}
-            className="w-full h-full object-fill "
-          />
-        </div>
+      >
+        <div className="flex flex-col flex-grow gap-4"> 
+          <div className="w-full h-[225px] flex items-center justify-center overflow-hidden">
+            <img
+              src={image}
+              alt={field}
+              className="w-full h-full object-contain "
+            />
+          </div>
 
         
         <div className="flex flex-col flex-grow items-center text-center p-4">
@@ -49,6 +61,8 @@ const CouresCard = ({ field, description, image, roadmap }) => {
           </div>
         </div>
       </div>
+      </div>
+
     </>
   );
 };

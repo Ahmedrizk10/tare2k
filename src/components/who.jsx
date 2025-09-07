@@ -1,62 +1,51 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import ScrollToTop from "./ScrollToTop";
-import { who } from "../assets/index.js";
+import { who , Mohamed , Zeyad , Ahmed} from "../assets/index.js";
+import Counter from "./Counter";
+import { FaGithub } from "react-icons/fa";
+import { FaLinkedin } from "react-icons/fa";
+import { FaSquareInstagram } from "react-icons/fa6";
+
+
 
 const Who = () => {
-  const [isVisible, setIsVisible] = useState(false);
+  // const [isVisible, setIsVisible] = useState(false);
 
   const team = [
     {
-      name: "أحمد محمد",
+      name: "احمد رزق",
       role: "Frontend Developer",
-      image: "/images/ahmed.jpg",
+      image: Ahmed,
       social: {
-        twitter: "#",
-        linkedin: "#",
-        github: "#"
+        twitter: "https://www.instagram.com/?hl=en",
+        linkedin: "https://www.linkedin.com/",
+        github: "https://github.com/"
+      }
+    },
+        {
+      name: "زياد عبدالله",
+      role: "Frontend Developer",
+      image: Zeyad,
+      social: {
+        twitter: "https://www.instagram.com/?hl=en",
+        linkedin: "https://www.linkedin.com/",
+        github: "https://github.com/ZeyadAbdallahSayed"
       }
     },
     {
-      name: "محمد علي",
-      role: "Backend Developer",
-      image: "/images/mohamed.jpg",
+      name: "محمد شريف",
+      role: "Content Writer",
+      image: Mohamed,
       social: {
-        twitter: "#",
-        linkedin: "#",
-        github: "#"
+        twitter: "https://www.instagram.com/?hl=en                           ",
+        linkedin: "https://www.linkedin.com/",
+        github: "https://github.com/"
       }
     },
-    {
-      name: "علي حسن",
-      role: "UI/UX Designer",
-      image: "/images/ali.jpg",
-      social: {
-        twitter: "#",
-        linkedin: "#",
-        github: "#"
-      }
-    },
+
   ];
 
-  useEffect(() => {
-    const toggleVisibility = () => {
-      if (window.pageYOffset > 300) {
-        setIsVisible(true);
-      } else {
-        setIsVisible(false);
-      }
-    };
 
-    window.addEventListener("scroll", toggleVisibility);
-    return () => window.removeEventListener("scroll", toggleVisibility);
-  }, []);
-
-  const scrollToTop = () => {
-    window.scrollTo({
-      top: 0,
-      behavior: "smooth"
-    });
-  };
 
 
   return (
@@ -82,7 +71,7 @@ const Who = () => {
 
         {/* النبذة + الصورة */}
         <div className="mx-auto max-w-6xl py-10" dir="rtl">
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center justify-center">
             <div className="flex flex-col justify-center">
               <p className="text-lg dark:text-gray-300 text-black leading-relaxed [word-spacing:0.15rem]">
                 موقع <span className="text-cyan-400 font-semibold">طريقك</span>{" "}
@@ -92,21 +81,10 @@ const Who = () => {
                 الاحتراف، علشان تقدر تحقق هدفك وتبني مستقبلك بثقة.
               </p>
               
-              {/* إحصائيات */}
-              <div className="grid grid-cols-3 gap-4 mt-8">
-                <div className="text-center">
-                  <div className="text-3xl font-bold text-cyan-400">+500</div>
-                  <div className="text-gray-600 dark:text-gray-400">كورس</div>
-                </div>
-                <div className="text-center">
-                  <div className="text-3xl font-bold text-cyan-400">+10K</div>
-                  <div className="text-gray-600 dark:text-gray-400">طالب</div>
-                </div>
-                <div className="text-center">
-                  <div className="text-3xl font-bold text-cyan-400">+50</div>
-                  <div className="text-gray-600 dark:text-gray-400">مسار تعليمي</div>
-                </div>
-              </div>
+
+
+              <Counter />
+
             </div>
             <div className="flex justify-center">
               <img
@@ -125,7 +103,7 @@ const Who = () => {
             {team.map((member, index) => (
               <div
                 key={index}
-                className="bg-[#111425] rounded-2xl shadow-lg p-6 hover:-translate-y-2 hover:shadow-cyan-900/30 transition-all duration-300 relative overflow-hidden team-member-card"
+                className=" dark:bg-[#111425] bg-[#eaeaeac6] rounded-2xl shadow-lg p-6 hover:-translate-y-2 hover:shadow-cyan-900/20 transition-all duration-300 relative overflow-hidden team-member-card"
               >
                 <div className="absolute top-0 right-0 w-24 h-24 bg-cyan-400/10 rounded-bl-full"></div>
                 <img
@@ -138,34 +116,14 @@ const Who = () => {
                 </h3>
                 <p className="text-gray-300 mb-4">{member.role}</p>
                 
-                {/* وسائل التواصل الاجتماعي */}
-                <div className="flex justify-center space-x-4">
-                  <a href={member.social.twitter} className="text-gray-400 hover:text-cyan-400 transition-colors">
-                    <i className="fab fa-twitter"></i>
-                  </a>
-                  <a href={member.social.linkedin} className="text-gray-400 hover:text-cyan-400 transition-colors">
-                    <i className="fab fa-linkedin"></i>
-                  </a>
-                  <a href={member.social.github} className="text-gray-400 hover:text-cyan-400 transition-colors">
-                    <i className="fab fa-github"></i>
-                  </a>
-                </div>
+
               </div>
             ))}
           </div>
         </div>
       </section>
 
-      {/* زر العودة للأعلى */}
-      {isVisible && (
-        <button
-          onClick={scrollToTop}
-          className="fixed bottom-6 left-6 z-50 bg-cyan-400 text-white p-3 rounded-full shadow-lg transition-opacity duration-300"
-          aria-label="العودة إلى الأعلى"
-        >
-          <i className="fas fa-arrow-up"></i>
-        </button>
-      )}
+
 
       <style jsx>{`
         @keyframes float {
