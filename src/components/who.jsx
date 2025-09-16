@@ -1,7 +1,7 @@
 import React from "react";
-import ScrollToTop from "./ScrollToTop";
+import ScrollToTop from "./ScrollToTop.jsx";
 import { who , Mohamed , Zeyad , Ahmed} from "../assets/index.js";
-import Counter from "./Counter";
+import Counter from "./Counter.jsx";
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { FaSquareInstagram } from "react-icons/fa6";

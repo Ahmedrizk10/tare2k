@@ -4,7 +4,7 @@ import MainLayout from '../MainLayout'
 import CoursesPage from '../CoursesPage'
 import ErrorPage from '../ErrorPage'
 import Home from '../Home'
-import Who from '../who'
+import Who from '../Who'
 import CouresDetailsPage from '../CouresDetailsPage'     
 import CouresDetails from '../CouresDetailsCard'    
 import ScrollToTop from '../ScrollToTop'
@@ -22,21 +22,21 @@ const Router = () => {
                     element: <Home />,
                 },
                 {
-                    path: "/courses",
+                    path: "/Courses",
                     element: <CoursesPage />,
                 },
                 {
-                    path: "/who",
+                    path: "/Who",
                     element: <Who />,
                 },
 
                 {
-                    path: "/couresDetailsPage",
+                    path: "/CouresDetailsPage",
                     element: <CouresDetailsPage />,
                 },
 
                 {
-                    path: "/contact",
+                    path: "/Contact",
                     element: <ContactUs />,
                 },
             ]
