@@ -1,7 +1,7 @@
 import React from 'react'
 import {RouterProvider,createBrowserRouter } from 'react-router-dom'
-import Mainlayout from '../Mainlayout'
-import CoursesPage from '../coursesPage'
+import MainLayout from '../MainLayout'
+import CoursesPage from '../CoursesPage'
 import ErrorPage from '../ErrorPage'
 import Home from '../Home'
 import Who from '../who'
@@ -14,7 +14,7 @@ const Router = () => {
     const router = createBrowserRouter([
         {
             path: "/",
-            element: <Mainlayout />,
+            element: <MainLayout />,
             errorElement: <ErrorPage />,
             children: [
                 {

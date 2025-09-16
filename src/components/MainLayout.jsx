@@ -4,7 +4,7 @@ import Footer from './Footer'
 import { Outlet } from 'react-router-dom'
 import Home from './Home'
 import ScrollToTop from './ScrollToTop'
-const Mainlayout = () => {
+const MainLayout = () => {
   return (
     <div>
       <ScrollToTop />
@@ -15,4 +15,4 @@ const Mainlayout = () => {
   )
 }
 
-export default Mainlayout
+export default MainLayout
