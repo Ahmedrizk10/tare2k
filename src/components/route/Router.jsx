@@ -1,7 +1,7 @@
 import React from 'react'
 import {RouterProvider,createBrowserRouter } from 'react-router-dom'
 import MainLayout from '../MainLayout'
-import CoursesPage from '../CoursesPage'
+import Courses from '../Courses'
 import ErrorPage from '../ErrorPage'
 import Home from '../Home'
 import Who from '../Who'
@@ -23,7 +23,7 @@ const Router = () => {
                 },
                 {
                     path: "/Courses",
-                    element: <CoursesPage />,
+                    element: <Courses />,
                 },
                 {
                     path: "/Who",

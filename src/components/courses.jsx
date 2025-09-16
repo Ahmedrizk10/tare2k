@@ -25,7 +25,12 @@ const Courses = () => {
   return (
     <>
     <ScrollToTop />
-      <div className="container mx-auto p-6 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+    <div className="pt-10"> 
+      <h1 className="font-dinar text-5xl md:text-6xl text-center font-bold dark:text-white text-black">
+        الكورسات
+      </h1>
+    </div>
+          <div className="container mx-auto p-6 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
         <CouresCard
           field={Front.field}
           description={Front.description}
